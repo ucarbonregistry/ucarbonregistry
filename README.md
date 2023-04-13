@@ -1,4 +1,4 @@
-### Welcome to the UCR Meta Registry.  Track / Trace /Deep Dive - UCR carbon & water ecosystem. 
+### Welcome to the UCR Meta Registry.  Track / Trace / Deep Dive 
 ![Header](./github-header-image.png)
 <!--
 **ucarbonregistry/ucarbonregistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
