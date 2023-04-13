@@ -1,5 +1,5 @@
 ### Welcome to the UCR Meta Registry 
-
+![Header](./github-header-image.png)
 <!--
 **ucarbonregistry/ucarbonregistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
