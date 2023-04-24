@@ -1,7 +1,6 @@
 ### Welcome to the UCR Meta Registry.  Track / Trace / Deep Dive 
 The Universal Carbon Registry (UCR) Standard and Platform is the next-generation model in mining voluntary non-compliance carbon credits and water credits from a wide range of green projects. Launched in 2021, it has showcased a far more efficient, faster, cheaper and de-centralized carbon and water credits ecosystem that rewards climate action by  every small green project owner aiming to decarbonize the economy.
 ![Header](./github-header-image.png)
-Untitled design.gif
 
 ### World's 1st Carbon Credits Program with Environmental Additionality Eligibility For Projects
 ### World's 1st Water Credits Program for Rainwater/Groundwater/Recycling Projects
