@@ -4,7 +4,7 @@ The Universal Carbon Registry (UCR) Standard and Platform is the next-generation
 
 ### World's 1st Carbon Credits Program with Environmental Additionality Eligibility For Projects
 ### World's 1st Water Credits Program for Rainwater/Groundwater/Recycling Projects
-### World's 1st Registry to Allow Live Transfer of Credits on Blockchain 
+### World's 1st Registry to Allow Free Live Transfer of Credits on Blockchain 
 
 <!--
 **ucarbonregistry/ucarbonregistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
