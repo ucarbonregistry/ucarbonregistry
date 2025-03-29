@@ -3,6 +3,8 @@ The Universal Carbon Registry (UCR) and Universal Water Registry (UWR) Standard 
 
 The crediting system and the verified credits themselves are designed by Kishore & Vihar to be tokenized on-chain for wider retail investment participation.  Minted carbon and water tokens would typically be ERC-20/ERC-1155 compliant and would be used in Web3 Re-fi plays under the “real-world asset” narrative.
 
+![Kishore Butani](https://www.ucarbonregistry.io/images/frontend/images/img_kishore.jpg)
+
 The "tokenization" bridge system, another innovation design by Kishore and Vihar, ensures that each DLT token will automatically be backed 1:1 by an unretired carbon/water credit that is removed permanently from the web 2.0 ecosystem ("unretired") and free to be used/unlocked only on the web 3.0 decentralized application or exchange.  
 
 ### World's 1st Meta Registry for RWA Value Digital Tokens using UCR & UWR credits 
