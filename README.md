@@ -3,7 +3,7 @@ The Universal Carbon Registry (UCR) and Universal Water Registry (UWR) Standard 
 
 ### World's 1st Meta Registry for RWA Value Digital Tokens using UCR & UWR credits 
 ### World's 1st Carbon Credits Program with Environmental Additionality Eligibility For Projects
-### World's 1st Water Credits Program for Rainwater/Groundwater/Recycling Projects
+### World's 1st Water Credits Program for Rainwater/Groundwater/Wastewater Recycling & Reuse Projects
 ### World's 1st Registry to Allow Free Live Transfer of Credits on Blockchain 
 
 <!--
