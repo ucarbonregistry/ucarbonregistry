@@ -1,5 +1,9 @@
 ### Welcome to the UCR & UWR Meta Registry.  Track / Trace / Deep Dive (Search Repositories)
-The Universal Carbon Registry (UCR) and Universal Water Registry (UWR) Standard and Platform is the next-generation model in mining voluntary non-compliance carbon credits and water credits respectively, from a wide range of green projects. Launched in 2021, it has showcased a far more efficient, faster, cheaper and de-centralized carbon and water credits ecosystem that rewards climate actionS by every small green project owner aiming to decarbonize the economy or build water resiliance via rainwater harvesting and water conservation projects globally.
+The Universal Carbon Registry (UCR) and Universal Water Registry (UWR) Standard and Platform is the next-generation model in mining verified non-compliance carbon credits and water credits respectively, from a wide range of green projects. Launched in 2021, the program and registry was designed by Mr Kishore Butani and Mr Vihar Pancholi, and it has showcased a far more efficient, faster, cheaper and de-centralized carbon and water credits generating ecosystem that rewards climate actions undertaken by every small green project owner aiming to decarbonize the economy or build water resiliance via rainwater harvesting and water conservation projects globally.
+
+The crediting system and the verified credits themselves are designed by Kishore & Vihar to be tokenized on-chain for wider retail investment participation.  Minted carbon and water tokens would typically be ERC-20/ERC-1155 compliant and would be used in Web3 Re-fi plays under the “real-world asset” narrative.
+
+Each token is backed 1:1 by a carbon credit immobilized in the ucarbonregistry.io system.  
 
 ### World's 1st Meta Registry for RWA Value Digital Tokens using UCR & UWR credits 
 ### World's 1st Carbon Credits Program with Environmental Additionality Eligibility For Projects
