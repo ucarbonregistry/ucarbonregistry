@@ -5,7 +5,7 @@ The Universal Carbon Registry (UCR) and Universal Water Registry (UWR) Standard 
 
 The crediting system and the verified credits themselves are designed by Kishore & Vihar to be tokenized on-chain for wider retail investment participation.  Minted carbon and water tokens would typically be ERC-20/ERC-1155 compliant and would be used in Web3 Re-fi plays under the “real-world asset” narrative.
 
-![Kishore Butani](https://www.ucarbonregistry.io/images/frontend/images/img_kishore.jpg)>> Kishore
+![Kishore Butani]([https://www.ucarbonregistry.io/images/frontend/images/img_kishore.jpg])>> Kishore
 
 ![Vihar Pancholi](https://www.ucarbonregistry.io/images/frontend/images/img_vihar.jpg)>> Vihar
 
